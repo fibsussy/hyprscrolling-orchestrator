@@ -1,5 +1,5 @@
 pkgname=hyprscrolling-orchestrator
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
 pkgdesc="hyprscrolling orchestrator will manage windows with absolute keybindings"
 arch=('x86_64' 'aarch64')
